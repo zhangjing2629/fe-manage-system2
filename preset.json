@@ -1,0 +1,17 @@
+{
+    "useConfigFiles": true,
+    "cssPreprocessor": "sass",
+    "plugins": {
+        "@vue/cli-plugin-babel": {
+            "version": "^3.0.0"
+        }
+    },
+    "configs": {
+        "vue": {           
+        },
+        "postcss": {}
+    },
+    "router": true,
+    "vuex": true,
+    "routerHistoryMode": false
+}

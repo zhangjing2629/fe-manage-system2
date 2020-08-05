@@ -1,0 +1,11 @@
+{
+  "name": "vuetify-template",
+  "version": "1.0.0",
+  "description": "vue-cli-preset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangjing2629",
+  "license": "ISC"
+}
